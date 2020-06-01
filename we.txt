@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 newBranch modify file
-=======
 hope family become better and better
 nice xy
 come on ! xiaoyue.
->>>>>>> master
