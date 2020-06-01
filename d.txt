@@ -1,3 +1,5 @@
 master 创建了d.txt
 
 newBranch 创建了 d.txt
+
+master pull 解决 冲突
