@@ -1,1 +1,1 @@
-master 创建了 a.txt
+newBranch 修稿了 a.txt
